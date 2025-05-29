@@ -4,6 +4,8 @@ This repository contains the official implementation of **MMFNet**, a novel Mult
 
 **Note:** This work is currently under review and the code is not publicly available at this time. We appreciate your understanding.
 
+![](/assets/full-processing-v5.png)
+
 ## Overview
 
 MMFNet addresses the critical need for robust and adaptable flood mapping solutions by leveraging the complementary information from both SAR and MSI data. Our model is built upon a multi-phase framework:
