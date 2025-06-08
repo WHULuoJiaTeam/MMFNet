@@ -25,19 +25,6 @@ MMFNet addresses the critical need for robust and adaptable flood mapping soluti
 
 If you find this work relevant to your research, please consider citing our paper (once published). The current draft is under review.
 
-```
-@misc{zhou_multi-modal_2025,
-	title = {Multi-Modal Foundation Model for Generalizable Flood Mapping Using Sentinel-1 and Sentinel-2 Remote Sensing Imagery},
-	url = {https://papers.ssrn.com/abstract=5253764},
-	doi = {10.2139/ssrn.5253764},
-	number = {5253764},
-	publisher = {Social Science Research Network},
-	author = {Zhou, Huan and Zhang, Mi and Li, Zhiwei and Zhao, Yuanxin and Gong, Jianya},
-	urldate = {2025-06-08},
-	date = {2025-05-14},
-}
-```
-
 ## Contact
 
 For any inquiries regarding this work, please contact:
